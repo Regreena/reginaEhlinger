@@ -3,9 +3,8 @@
 #### Technical Skills: Python, SQL, Excel, Smartsheet
 
 ## Education
-Data Analytics, MBS
-
-Renewable Energy Engineering, BS
+M.B.S., Data Analytics | Rutgers University
+B.S., Renewable Energy Engineering, BS | Oregon Institute of Technology
 
 ## Work Experience
 Senior Manager, Corporate Sustainability Data @ Comcast
