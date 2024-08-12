@@ -9,7 +9,7 @@ M.B.S., Data Analytics | Rutgers University
 B.S., Renewable Energy Engineering, BS | Oregon Institute of Technology
 
 ## Work Experience
-Senior Manager, Corporate Sustainability Data @ Comcast
+***Senior Manager, Corporate Sustainability Data @ Comcast***
   
 Senior Solar Operations Analyst @ Lumio
 
