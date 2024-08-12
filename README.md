@@ -30,6 +30,9 @@ B.S., Renewable Energy Engineering, BS | Oregon Institute of Technology
 
 ***Jr. Data Scientist Contractor @ Comcast***
 
+## Certificates
+[GHG Value Chain Scope 3 Corporate Value Chain (Scope 3) ](https://www.linkedin.com/in/reginaehlinger/overlay/1721488009248/single-media-viewer/?profileId=ACoAAAHqmH8BfqyzbgtVfpluVoQY7Sg-qSYAlbo)
+
 ## Projects
 
 ### Project E1
