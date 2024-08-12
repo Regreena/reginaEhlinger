@@ -1,10 +1,12 @@
 # Regina Ehlinger
 
-### Education
+#### Technical Skills: Python, SQL, Excel, Smartsheet
+
+## Education
 Data Analytics, MBS
 Renewable Energy Engineering, BS
 
-# Work Experience
+## Work Experience
 Senior Manager, Corporate Sustainability Data @ Comcast
   
 Senior Solar Operations Analyst @ Lumio
