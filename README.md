@@ -15,3 +15,8 @@ Senior Solar Operations Analyst @ Lumio
 Senior Associate, Quality Data And Analytics @ BAYADA Home Health Care
 
 Jr. Data Scientist Contractor @ Comcast
+
+## Projects
+
+### Project E1
+#[Link Text](link)
