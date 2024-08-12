@@ -10,5 +10,7 @@ Senior Manager, Corporate Sustainability Data @ Comcast
 - big impact project 2!
   
 Senior Solar Operations Analyst @ Lumio
+
 Senior Associate, Quality Data And Analytics @ BAYADA Home Health Care
+
 Jr. Data Scientist Contractor @ Comcast
