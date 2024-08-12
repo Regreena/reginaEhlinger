@@ -11,11 +11,11 @@ B.S., Renewable Energy Engineering, BS | Oregon Institute of Technology
 ## Work Experience
 ***Senior Manager, Corporate Sustainability Data @ Comcast***
   
-Senior Solar Operations Analyst @ Lumio
+***Senior Solar Operations Analyst @ Lumio***
 
-Senior Associate, Quality Data And Analytics @ BAYADA Home Health Care
+***Senior Associate, Quality Data And Analytics @ BAYADA Home Health Care***
 
-Jr. Data Scientist Contractor @ Comcast
+***Jr. Data Scientist Contractor @ Comcast***
 
 ## Projects
 
