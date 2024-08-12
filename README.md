@@ -1,5 +1,4 @@
 # Regina Ehlinger
-<img src="/assets/regina_ehlinger_headshot.jpg" width="200">
 
 #### Technical Skills: Python, SQL, Excel, Smartsheet
 
