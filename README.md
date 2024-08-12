@@ -4,6 +4,7 @@
 
 ## Education
 Data Analytics, MBS
+
 Renewable Energy Engineering, BS
 
 ## Work Experience
