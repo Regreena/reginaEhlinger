@@ -1,5 +1,7 @@
 # Regina Ehlinger
 
+Hi! I’m a data-driven sustainability professional passionate about leveraging analytics, AI, and engineering to combat climate change. With a background in Renewable Energy Engineering (BS) and Data Analytics & Data Science (MBS), I’ve spent over 5 years transforming environmental, technological, and healthcare challenges into actionable, data-powered solutions.
+
 #### Technical Skills: Python, SQL, Excel, Smartsheet
 
 ## Education
