@@ -4,6 +4,7 @@
 
 ## Education
 M.B.S., Data Analytics | Rutgers University
+
 B.S., Renewable Energy Engineering, BS | Oregon Institute of Technology
 
 ## Work Experience
